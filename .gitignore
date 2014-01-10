@@ -1,0 +1,16 @@
+# Binaries
+pdftk/pdftk
+java/java_lib.jar
+
+# Java
+*.class
+
+# GCJ
+*.o
+*.h
+
+# Vim
+.*.sw[a-p]
+
+# Mac
+.DS_Store
